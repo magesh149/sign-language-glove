@@ -31,3 +31,5 @@ Due to hardware limitations, **flex sensor data is simulated**, but the complete
 1. Install required dependencies:
    ```bash
    pip install -r requirements.txt
+Submission for Hand Tracking & Gesture Interaction assignment
+
